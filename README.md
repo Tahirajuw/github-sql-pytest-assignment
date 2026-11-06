@@ -65,7 +65,6 @@ I used Pytest to check my code automatically and make sure the function gives th
 - `age_checker.py` – Adult age checking function.
 - `test_age_checker.py` – Three test cases.
 - `requirements.txt` – Required Python libraries.
-- `README.md` – Project explanation.
 
 ## Conclusion
 
